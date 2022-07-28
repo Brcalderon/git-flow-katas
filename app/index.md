@@ -14,10 +14,10 @@ Welcome to _Onlyrics_, the only place on the planet where your ears won't be dis
 
 [Imagine](song/jan/vanilla-panna-cotta.md)
 
-### [Queen](writer/queen.md) | queen@onlyrics.magazine
+### [Queen](writer/queen.md) 
 
 [Bohemian Rhapsody](song/feb/bohemian_rhapsody.md)
 
-### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
+### [The Killers](writer/the_killers)
 
 [Somebody told me](song/feb/somebody_told_me.md)
