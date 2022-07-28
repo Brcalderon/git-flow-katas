@@ -2,22 +2,28 @@
 
 Welcome to _Onlyrics_, the only place on the planet where your ears won't be disappointed!
 
+## Last Month´s Favorites
 
-
-## Picks of the Month
-
-### [Arctic Monkeys](/writer/arctic_monkeys.md) | arctic.monkeys@onlyrics.magazine
+### [Arctic Monkeys](/writer/arctic_monkeys.md) 
 
 [Fluorescent Adolescent](song/jan/fluorescent_adolescent.md)
 
-### [Jhon Lennon](writer/john_lennon.md) | jhon.lennon@onlyrics.magazine
+### [Queen](writer/queen.md) 
 
-[Imagine](song/jan/vanilla-panna-cotta.md)
+[We are the champions](song/jan/we_are_the_champions.md)
 
-### [Queen](writer/queen.md) | queen@onlyrics.magazine
+### [The Killers](writer/the_killers)
 
-[We Are The Champions](song/jan/we_are_the_champions.md)
+[Mr brightside](song/jan/mr_brightside.md)
 
-### [The Killers](writer/the_killers) | the.killers@onlyrics.magazine
+## Picks of the Month
 
-[Mr. Brightside](song/jan/mr_brightside.md)
+### [Arctic Monkeys](/writer/arctic_monkeys.md) [Do I Wanna Know?](song/feb/do_i_wanna_know.md)
+
+### [Queen](writer/queen.md) 
+
+[Bohemian Rhapsody](song/feb/bohemian_rhapsody.md)
+
+### [The Killers](writer/the_killers)
+
+[Somebody told me](song/feb/somebody_told_me.md)
